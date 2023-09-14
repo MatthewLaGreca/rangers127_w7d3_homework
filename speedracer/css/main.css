@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(to right, orange, red);
+}
+.list-group {
+    color: white;
+    background-color: rgb(54, 53, 53);
+    font-weight: 500;
+}
+.racer {
+    color: blue;
+}
